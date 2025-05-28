@@ -1,4 +1,4 @@
-//ECSE 318 Andrew Chen and Audrey Michel
+//ECSE 318 Andrew Chen and Peter Michel
 //Lab 2
 // Adder Module (1995 compliant)
 module adder(

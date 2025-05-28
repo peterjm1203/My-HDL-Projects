@@ -1,5 +1,5 @@
 // ECSE 318 
-// Andrew Chen and Audrey Michel
+// Andrew Chen and Peter Michel
 
 module conditional_sum_adder (
     input [7:0] x,  // 8-bit input x

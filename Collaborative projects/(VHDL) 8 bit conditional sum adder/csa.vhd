@@ -1,5 +1,5 @@
 -- ECSE 318
--- Andrew Chen and Audrey Michel
+-- Andrew Chen and Peter Michel
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;

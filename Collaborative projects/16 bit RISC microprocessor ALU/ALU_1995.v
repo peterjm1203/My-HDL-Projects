@@ -1,4 +1,4 @@
-//ECSE 318 Andrew Chen and Audrey Michel
+//ECSE 318 Andrew Chen and Peter Michel
 //Lab 2
 // ALU_test Module (1995 compliant)
 module ALU_test(

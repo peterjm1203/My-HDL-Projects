@@ -1,5 +1,5 @@
 // ECSE 318
-// Andrew Chen and Audrey Michel
+// Andrew Chen and Peter Michel
 `timescale 1ns/1ns // ask saab about the timescale
 
 module carry_lookahead_adder_tb;

@@ -1,5 +1,5 @@
 // ECSE 318 
-// Andrew Chen and Audrey Michel
+// Andrew Chen and Peter Michel
 // This is the full adder.
 //This is in 2001 Verilog
 

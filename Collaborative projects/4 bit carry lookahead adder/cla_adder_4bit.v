@@ -1,5 +1,5 @@
 // ECSE 318 
-// Andrew Chen and Audrey Michel
+// Andrew Chen and Peter Michel
 
 `timescale 1ps/1fs // Set timescale to 1 picosecond with 1 femtosecond precision
 
