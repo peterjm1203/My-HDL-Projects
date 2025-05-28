@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vfreecellPlayer
+!s110 1747949360
+!i10b 1
+!s100 k>GS6KBzR4aMN^;dPVnDj3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I:dOic>4o5<CcQdZTOKUg@1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Rein Reign/Documents/GitHub/My-HDL-Projects/[WIP] Playable Freecell
+w1747843539
+Z3 8C:/Users/Rein Reign/Documents/GitHub/My-HDL-Projects/[WIP] Playable Freecell/freecell_tester.v
+Z4 FC:/Users/Rein Reign/Documents/GitHub/My-HDL-Projects/[WIP] Playable Freecell/freecell_tester.v
+!i122 30
+L0 1 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1747949360.000000
+!s107 C:/Users/Rein Reign/Documents/GitHub/My-HDL-Projects/[WIP] Playable Freecell/freecell_tester.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rein Reign/Documents/GitHub/My-HDL-Projects/[WIP] Playable Freecell/freecell_tester.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+nfreecell@player
+vmyfreecell
+!s110 1747951737
+!i10b 1
+!s100 XbMc8zhn:86LX^K<8<X[H0
+R0
+IJl;9mTVFA6zG6o4?`A3n@1
+R1
+R2
+w1747951733
+8C:/Users/Rein Reign/Documents/GitHub/My-HDL-Projects/[WIP] Playable Freecell/freecell.v
+FC:/Users/Rein Reign/Documents/GitHub/My-HDL-Projects/[WIP] Playable Freecell/freecell.v
+!i122 44
+L0 1 463
+R5
+r1
+!s85 0
+31
+!s108 1747951737.000000
+!s107 C:/Users/Rein Reign/Documents/GitHub/My-HDL-Projects/[WIP] Playable Freecell/freecell.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rein Reign/Documents/GitHub/My-HDL-Projects/[WIP] Playable Freecell/freecell.v|
+!i113 1
+R7
+R8
+vtestFreeCell
+!s110 1747952244
+!i10b 1
+!s100 V`<[mJXQ2DB]561<5U3000
+R0
+IULKd3f`54gMkJWnImEOW^0
+R1
+R2
+w1747950660
+R3
+R4
+!i122 47
+L0 1 185
+R5
+r1
+!s85 0
+31
+!s108 1747952244.000000
+Z9 !s107 C:/Users/Rein Reign/Documents/GitHub/My-HDL-Projects/[WIP] Playable Freecell/freecell_tester.v|
+R6
+!i113 1
+R7
+R8
+ntest@free@cell
